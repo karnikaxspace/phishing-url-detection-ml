@@ -8,7 +8,7 @@ This project is a **phishing URL detection system** built using **Python** and *
 ## Dataset
 
 - The dataset used is from Kaggle: `Phishing Site URLs`  
-- It contains a large collection of URLs labeled as `good` (legitimate) or `bad` (phishing).  
+- It contains a large collection of URLs labeled as `good` (legitimate) or `bad` (phishing) .  
 - The dataset includes potential duplicates and inconsistent formatting, which are handled during preprocessing.
 
 ---
